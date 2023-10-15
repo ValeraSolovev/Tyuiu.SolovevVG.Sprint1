@@ -11,7 +11,7 @@ namespace Tyuiu.SolovevVG.Sprint1.Task0.V8
     {
         static void Main(string[] args)
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
 
             Console.Title = "Спринт #1 | Выполнил: Соловьев В.Г. | СМАРТБ-23-1";
             Console.WriteLine("***************************************************************************");
