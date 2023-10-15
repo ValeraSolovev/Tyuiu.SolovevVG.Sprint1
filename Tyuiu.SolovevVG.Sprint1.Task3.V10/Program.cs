@@ -17,8 +17,8 @@ namespace Tyuiu.SolovevVG.Sprint1.Task3.V10
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
-            Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #8                                                              *");
+            Console.WriteLine("* Задание #3                                                              *");
+            Console.WriteLine("* Вариант #10                                                              *");
             Console.WriteLine("* Выполнил: Соловьев В.Г. | СМАРТБ-23-1                                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
